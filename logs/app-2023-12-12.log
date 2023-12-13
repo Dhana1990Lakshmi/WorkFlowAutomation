@@ -1,0 +1,152 @@
+[INFO ] 2023-12-12 18:31:49.812 [main] UserTests - Creating user
+[INFO ] 2023-12-12 18:31:54.942 [main] UserTests - Username::bud.greenfelder
+[INFO ] 2023-12-12 18:31:54.942 [main] UserTests - Post Status code::200
+[INFO ] 2023-12-12 18:31:54.944 [main] UserTests - Completed Creating user
+[INFO ] 2023-12-12 18:31:54.982 [main] UserTests - Retriving user details based on name
+[INFO ] 2023-12-12 18:31:56.236 [main] UserTests - io.restassured.internal.ValidatableResponseImpl@28269c65
+[INFO ] 2023-12-12 18:31:57.392 [main] UserTests - Retriving user details based on name
+[INFO ] 2023-12-12 18:31:58.614 [main] UserTests - io.restassured.internal.ValidatableResponseImpl@2078bf0a
+[INFO ] 2023-12-12 18:33:20.840 [main] UserTests - Creating user
+[INFO ] 2023-12-12 18:33:23.490 [main] UserTests - Username::josue.schamberger
+[INFO ] 2023-12-12 18:33:23.490 [main] UserTests - Post Status code::200
+[INFO ] 2023-12-12 18:33:23.491 [main] UserTests - Completed Creating user
+[INFO ] 2023-12-12 18:33:23.496 [main] UserTests - Retriving user details based on name
+[INFO ] 2023-12-12 18:33:24.681 [main] UserTests - io.restassured.internal.ValidatableResponseImpl@4822ab4d
+[INFO ] 2023-12-12 18:33:25.857 [main] UserTests - Retriving user details based on name
+[INFO ] 2023-12-12 18:33:27.030 [main] UserTests - io.restassured.internal.ValidatableResponseImpl@2f60e66a
+[INFO ] 2023-12-12 18:37:20.514 [main] UserTests - Creating user
+[INFO ] 2023-12-12 18:37:23.336 [main] UserTests - Username::myesha.pfeffer
+[INFO ] 2023-12-12 18:37:23.336 [main] UserTests - Post Status code::200
+[INFO ] 2023-12-12 18:37:23.338 [main] UserTests - Completed Creating user
+[INFO ] 2023-12-12 18:37:23.351 [main] UserTests - Retriving user details based on name
+[INFO ] 2023-12-12 18:37:24.620 [main] UserTests - io.restassured.internal.ValidatableResponseImpl@22172b00
+[INFO ] 2023-12-12 18:37:25.848 [main] UserTests - Retriving user details based on name
+[INFO ] 2023-12-12 18:37:27.031 [main] UserTests - io.restassured.internal.ValidatableResponseImpl@26d445e9
+[INFO ] 2023-12-12 18:37:30.812 [main] DBDrivenTest - Username::uname1
+[INFO ] 2023-12-12 18:37:30.812 [main] DBDrivenTest - Post Status code::200
+[INFO ] 2023-12-12 18:37:31.937 [main] DBDrivenTest - Username::uname2
+[INFO ] 2023-12-12 18:37:31.937 [main] DBDrivenTest - Post Status code::200
+[INFO ] 2023-12-12 18:37:33.065 [main] DBDrivenTest - Username::uname3
+[INFO ] 2023-12-12 18:37:33.066 [main] DBDrivenTest - Post Status code::200
+[INFO ] 2023-12-12 18:37:34.199 [main] DBDrivenTest - Get Status code::200
+[INFO ] 2023-12-12 18:37:35.384 [main] DBDrivenTest - Get Status code::200
+[INFO ] 2023-12-12 18:37:36.635 [main] DBDrivenTest - Get Status code::200
+[INFO ] 2023-12-12 18:38:57.303 [main] UserTests - Creating user
+[INFO ] 2023-12-12 18:38:59.871 [main] UserTests - Username::nannette.hodkiewicz
+[INFO ] 2023-12-12 18:38:59.871 [main] UserTests - Post Status code::200
+[INFO ] 2023-12-12 18:38:59.872 [main] UserTests - Completed Creating user
+[INFO ] 2023-12-12 18:38:59.884 [main] UserTests - Retriving user details based on name
+[INFO ] 2023-12-12 18:39:01.107 [main] UserTests - io.restassured.internal.ValidatableResponseImpl@4ba402b5
+[INFO ] 2023-12-12 18:39:02.340 [main] UserTests - Retriving user details based on name
+[INFO ] 2023-12-12 18:39:03.570 [main] UserTests - io.restassured.internal.ValidatableResponseImpl@4f22fd5d
+[DEBUG] 2023-12-12 18:39:04.989 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:04.992 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:04.993 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:05.502 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:05.504 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:05.505 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:05.542 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:05.544 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:05.546 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:05.605 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:05.606 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:05.607 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:05.648 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:05.650 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:05.651 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:05.681 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:05.684 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:05.684 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:05.716 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:05.717 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:05.719 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:05.758 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:05.759 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:05.761 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:05.900 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:05.901 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:05.902 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:05.953 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:05.970 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:05.971 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:06.076 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:06.077 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:06.077 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:06.116 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:06.119 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:06.120 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:06.180 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:06.182 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:06.183 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:06.225 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:06.226 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:06.227 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:06.254 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:06.256 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:06.256 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:06.285 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:06.286 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:06.287 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:06.312 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:06.313 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:06.315 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:06.339 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:06.340 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:06.341 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:06.363 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:06.364 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:06.366 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:06.391 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:06.392 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:06.394 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:06.418 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:06.420 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:06.421 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:06.441 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:06.441 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:06.442 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:06.461 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:06.461 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:06.462 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:06.492 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:06.492 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:06.493 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:06.512 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:06.512 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:06.514 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:06.535 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:06.537 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:06.538 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-12-12 18:39:07.672 [main] DBDrivenTest - Username::uname1
+[INFO ] 2023-12-12 18:39:07.673 [main] DBDrivenTest - Post Status code::200
+[INFO ] 2023-12-12 18:39:08.897 [main] DBDrivenTest - Username::uname2
+[INFO ] 2023-12-12 18:39:08.897 [main] DBDrivenTest - Post Status code::200
+[INFO ] 2023-12-12 18:39:10.133 [main] DBDrivenTest - Username::uname3
+[INFO ] 2023-12-12 18:39:10.133 [main] DBDrivenTest - Post Status code::200
+[DEBUG] 2023-12-12 18:39:10.142 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:10.143 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:10.144 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:10.164 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:10.165 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:10.166 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:10.188 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:10.189 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:10.190 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:10.211 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:10.212 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:10.213 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-12-12 18:39:11.478 [main] DBDrivenTest - Get Status code::200
+[INFO ] 2023-12-12 18:39:12.722 [main] DBDrivenTest - Get Status code::200
+[INFO ] 2023-12-12 18:39:13.962 [main] DBDrivenTest - Get Status code::200
+[DEBUG] 2023-12-12 18:39:14.528 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:14.530 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:14.531 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:14.570 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:14.570 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:14.571 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:14.600 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:14.601 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:14.602 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-12-12 18:39:14.622 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-12-12 18:39:14.623 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-12-12 18:39:14.626 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
